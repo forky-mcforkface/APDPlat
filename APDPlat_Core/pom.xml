@@ -83,7 +83,7 @@
         <birt.version>4.2.2</birt.version>
         <aspectj.version>1.7.4</aspectj.version>
         <commons-net.version>3.3</commons-net.version>
-        <jackson.version>2.5.2</jackson.version>
+        <jackson.version>2.13.4</jackson.version>
         <solrj.version>4.6.1</solrj.version>
         
         <p6spy.version>1.3</p6spy.version>
